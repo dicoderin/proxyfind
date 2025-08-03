@@ -55,7 +55,7 @@ python proxy_checker.py
 
 ## ⚙️ Konfigurasi
 
-Edit bagian `CONFIG` di `proxy_checker.py` untuk penyesuaian:
+Edit bagian `CONFIG` di `find.py` untuk penyesuaian:
 
 ```python
 CONFIG = {
@@ -83,7 +83,7 @@ CONFIG = {
 
 ```
 proxyfind/
-├── proxy_checker.py       # Skrip utama
+├── find.py       # Skrip utama
 ├── input.txt              # Input proxy (dibuat pengguna)
 ├── proxies.txt            # Output proxy valid
 ├── proxies.json           # Output JSON dengan metadata
