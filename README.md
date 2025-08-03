@@ -45,7 +45,7 @@ proxy.example.com:3128
 
 2. Jalankan checker:
 ```bash
-python proxy_checker.py
+python find.py
 ```
 
 3. Lihat hasil di:
